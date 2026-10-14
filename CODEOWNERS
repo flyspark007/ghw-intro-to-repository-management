@@ -1,0 +1,3 @@
+# Core functionality - changes here should be rare!
+/src/app.py @flyspark007
+/src/backend/database.py @flyspark007
